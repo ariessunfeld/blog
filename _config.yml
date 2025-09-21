@@ -1,0 +1,30 @@
+title: Ari’s Notes
+email: ariessunfeld@gmail.com
+description: >-
+  Personal notes, checklists, and essays.
+
+# IMPORTANT for project sites
+url: "https://ariessunfeld.github.io"
+baseurl: "/blog"
+
+theme: minima
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/ariessunfeld" }
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Useful permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+author:
+  name: "Ari Essunfeld"
+  email: ariessunfeld@gmail.com
