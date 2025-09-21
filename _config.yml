@@ -25,6 +25,4 @@ kramdown:
 # Useful permalinks
 permalink: /:categories/:year/:month/:day/:title/
 
-author:
-  name: "Ari Essunfeld"
-  email: ariessunfeld@gmail.com
+author: "Ari Essunfeld"
