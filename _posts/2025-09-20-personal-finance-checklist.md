@@ -6,7 +6,7 @@ categories: finance
 tags: [checklist, basics]
 ---
 
-# Getting Started with Responsible Personal Finance
+<!-- # Getting Started with Responsible Personal Finance -->
 
 I was talking to a friend today who graduated from college a few months ago and is moving to New York City in a week. They mentioned needing to open a new bank account in the city, and that they had been putting off opening a credit card. Having gone through a similar transition myself just a few years back in 2020, where all of a sudden I am working and have an income and am thinking about things like opening a credit card, connecting it to my bank accounts, wondering what sort of bank account should I have, wondering if I should be investing and/or saving for retirement, etc., I could relate and offered some advice. After our conversation I decided to write up some notes on these topics, in the hopes that it might prove useful to other folks, in or recently out of college, who might be starting to think about personal finance for the first time.
 
