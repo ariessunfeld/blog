@@ -20,6 +20,6 @@ Cross-posting a previous mental math post made on Medium.com; [read it here](htt
 {% include link_card.html
    url="https://medium.com/@ariessunfeld/mental-math-tip-squaring-numbers-ending-in-5-33290c73d004"
    title="Mental Math Tip: Squaring Numbers Ending in 5"
-   img="{{ '/assets/images/previews/mental-math-squaring-ending-in-5.webp' | relative_url }}"
+   img="/assets/images/previews/mental-math-squaring-ending-in-5.webp"
    site="medium.com"
    size="sm" %}
