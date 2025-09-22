@@ -17,21 +17,36 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # Make Bundler more resilient to RubyGems network blips
+      BUNDLE_RETRY: "5"
+      BUNDLE_TIMEOUT: "120"
+      # Ensure production build
+      JEKYLL_ENV: production
+      # (Optional) build TZ; Jekyll will still use site.timezone if set in _config.yml
+      TZ: America/Los_Angeles
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: true
+          bundler-cache: true  # runs `bundle install` with cache
 
-      - name: Install dependencies
-        run: bundle install --path vendor/bundle
+      # Recommended by GitHub for Pages deployments
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
 
       - name: Build site
-        run: bundle exec jekyll build --trace
+        shell: bash
+        run: |
+          set -euo pipefail
+          bundle exec jekyll build --trace
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -41,6 +56,7 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
