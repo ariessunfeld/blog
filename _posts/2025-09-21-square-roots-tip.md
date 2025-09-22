@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mental Math Tip: Calculating Square Roots"
-date: 2025-09-21 22:00:00 -0800
+date: 2025-09-21 22:00:00
 categories: mental-math
 tags: [mental-math, memorization, math, arithmetic]
 ---

@@ -7,6 +7,8 @@ description: >-
 url: "https://ariessunfeld.github.io"
 baseurl: "/blog"
 
+timezone: America/Los_Angeles
+
 theme: minima
 
 minima:
