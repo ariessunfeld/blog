@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mental Math Tip: Squaring Numbers Ending in 5"
+title: "Mental Math: Squaring Numbers Ending in 5"
 date: 2025-09-21 21:00:00
 categories: mental-math
 tags: [mental-math, memorization, math, arithmetic]
 ---
 
-Cross-posting a previous mental math post made on Medium.com; [read it here](https://medium.com/@ariessunfeld/mental-math-tip-squaring-numbers-ending-in-5-33290c73d004)!
+#### Cross-posting a previous mental math post made on Medium.com; [read it here](https://medium.com/@ariessunfeld/mental-math-tip-squaring-numbers-ending-in-5-33290c73d004)!
 
 
 <!-- {% include link_card.html
@@ -17,9 +17,9 @@ Cross-posting a previous mental math post made on Medium.com; [read it here](htt
    site="medium.com"
    size="sm" %}   {# sizes: sm | (default) | lg #} -->
 
-{% include link_card.html
+<!-- {% include link_card.html
    url="https://medium.com/@ariessunfeld/mental-math-tip-squaring-numbers-ending-in-5-33290c73d004"
    title="Mental Math Tip: Squaring Numbers Ending in 5"
    img="/assets/images/previews/mental-math-squaring-ending-in-5.webp"
    site="medium.com"
-   size="sm" %}
+   size="sm" %} -->
