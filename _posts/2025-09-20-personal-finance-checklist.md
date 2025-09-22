@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started with Responsible Personal Finance"
+title: "Getting Started with Personal Finance"
 date: 2025-09-20 09:00:00
 categories: finance
 tags: [checklist, basics]
@@ -8,15 +8,17 @@ tags: [checklist, basics]
 
 <!-- # Getting Started with Responsible Personal Finance -->
 
-I was talking to a friend today who graduated from college a few months ago and is moving to New York City in a week. They mentioned needing to open a new bank account in the city, and that they had been putting off opening a credit card. Having gone through a similar transition myself just a few years back in 2020, when all of a sudden I was working, and had an income, and was thinking about things like opening a credit card, connecting it to my bank account, wondering what sort of bank account I should have, wondering if I should be investing and/or saving for retirement, etc. So, I could relate, and I asked if they wanted me to share a little about my experience, offer some advice. After our conversation, I decided to write up some notes on these topics, in the hopes that it might prove useful to other folks in (or recently out of) college who might be thinking about personal finance for the first time.
+I was talking to a friend today who graduated from college a few months ago and is moving to New York City in a week. They mentioned needing to open a new bank account in the city, and that they had been putting off opening a credit card. I started my first full-time job back in 2020, and I remember all of a sudden thinking about opening credit cards, connecting them to my bank account, wondering what sort of bank account I should have, wondering if I should be investing and/or saving for retirement, etc., all for the first time. 
 
-*Let me briefly note at this point in this post that I wish the society I lived in had a different economic system, one in which the burden was not on the individual to save for retirement, and one in which "credit score" wasn't a concept people had to spend time thinking about, and, much more importantly, one in which access to quality housing, medical care, food, and public green space were guaranteed as fundamental. However, that is not yet the society in which I live, and so, at least for the time being, we're stuck with Credit Karma and IRAs.*
+After our conversation, I decided to write up some notes on these topics, in the hopes that it might prove useful to other folks in (or recently out of) college who might be thinking about personal finance for the first time.
 
-Many have written on these topics, and none of what you will find below is particularly novel. My aim with this post is simply to share what has worked for me, what I have done, and some details to consider or things watch out for. There is certainly room for improvement and optimization. But, I hope that some will find this collection of notes useful, especially if venturing into personal finance for the first time.
+*I want to note that I wish the society we lived in had a different economic system, one in which the burden was not on the individual to save for retirement, and one in which "credit score" wasn't a concept people had to spend time thinking about. Much more importantly, I wish we lived in a society wherein access to quality housing, medical care, healthy food, public green space, and other privileges were guaranteed as fundamental. However, that is not yet the society in which we live, and so, at least for the time being, we're stuck with Credit Karma and IRAs. Might as well know how to play the game.*
+
+Many have written on these topics, and none of what you will find below is particularly novel. My aim with this post is simply to share what has worked for me, what I have done, and some details to consider or traps to watch out for. There is certainly room for improvement and optimization. But I hope that some will find this collection of notes useful, especially if venturing into personal finance for the first time.
 
 ## Credit Card & Credit Score
 
-There are two main reasons to open a credit card. One is to be able to purchase something worth $X even if you don't have $X immediately available in cash. The other is build your credit score, which will help with applications and loans you will likely want to make and take out in the future.  
+There are two main reasons to open a credit card. One is to be able to purchase something worth $X even if you don't have $X immediately available in cash. The other is to increase your credit score, which will help with applications and loans you will likely want to make and take out in the future.  
 
 To use a credit card responsibly and not lose any money to interest payments, you should always pay the credit card statement balance in full each month. To reconcile this with the first motivation for opening a credit card listed above, consider the following example: You have $500 in the bank and you want to buy something worth $1000. You cannot buy it with a debit card, because you only have $500 in the bank. You *could* buy it with a credit card, if your credit limit is more than $1000. Suppose you have a paycheck for $1000 coming next week. Then you can responsibly purchase the item for $1000 dollars using your credit card, since you will have $1500 in the bank by the time you must pay your credit card statement balance (assuming you have no other upcoming deductions from your bank account).
 
