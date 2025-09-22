@@ -1,0 +1,13 @@
+<a class="link-card {% if include.size %}{{ include.size }}{% endif %}"
+   href="{{ include.url }}" target="_blank" rel="noopener">
+  {% if include.img %}
+    <img class="thumb" src="{{ include.img }}" alt="{{ include.alt | default: include.title | default: 'Link preview image' }}" loading="lazy">
+  {% endif %}
+  <div class="body">
+    {% if include.title %}<h3 class="title">{{ include.title }}</h3>{% endif %}
+    {% if include.desc %}<p class="desc">{{ include.desc }}</p>{% endif %}
+    <div class="meta">
+      {{ include.site | default: include.url }}
+    </div>
+  </div>
+</a>
