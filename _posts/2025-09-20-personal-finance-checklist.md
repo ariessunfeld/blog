@@ -8,9 +8,11 @@ tags: [checklist, basics]
 
 <!-- # Getting Started with Responsible Personal Finance -->
 
-I was talking to a friend today who graduated from college a few months ago and is moving to New York City in a week. They mentioned needing to open a new bank account in the city, and that they had been putting off opening a credit card. Having gone through a similar transition myself just a few years back in 2020, when all of a sudden I was working and had an income and was thinking about things like opening a credit card, connecting it to my bank accounts, wondering what sort of bank accounts I should have, wondering if I should be investing and/or saving for retirement, etc., I could relate, and I offered a little advice. After our conversation, I decided to write up some notes on these topics, in the hopes that it might prove useful to other folks in (or recently out of) college who might be thinking about personal finance for the first time.
+I was talking to a friend today who graduated from college a few months ago and is moving to New York City in a week. They mentioned needing to open a new bank account in the city, and that they had been putting off opening a credit card. Having gone through a similar transition myself just a few years back in 2020, when all of a sudden I was working, and had an income, and was thinking about things like opening a credit card, connecting it to my bank account, wondering what sort of bank account I should have, wondering if I should be investing and/or saving for retirement, etc. So, I could relate, and I asked if they wanted me to share a little about my experience, offer some advice. After our conversation, I decided to write up some notes on these topics, in the hopes that it might prove useful to other folks in (or recently out of) college who might be thinking about personal finance for the first time.
 
-Many have written on these topic, and none of what you will find below is particularly novel. My aim with this post is simply to share what has worked for me, what I have done, and some details to consider or things watch out for. There is certainly room for improvement and optimization. But, I hope that some will find this collection of notes useful, especially if venturing into personal finance for the first time.
+*Let me briefly note at this point in this post that I wish the society I lived in had a different economic system, one in which the burden was not on the individual to save for retirement, and one in which "credit score" wasn't a concept people had to spend time thinking about, and, much more importantly, one in which access to quality housing, medical care, food, and public green space were guaranteed as fundamental. However, that is not yet the society in which I live, and so, at least for the time being, we're stuck with Credit Karma and IRAs.*
+
+Many have written on these topics, and none of what you will find below is particularly novel. My aim with this post is simply to share what has worked for me, what I have done, and some details to consider or things watch out for. There is certainly room for improvement and optimization. But, I hope that some will find this collection of notes useful, especially if venturing into personal finance for the first time.
 
 ## Credit Card & Credit Score
 
@@ -21,9 +23,9 @@ To use a credit card responsibly and not lose any money to interest payments, yo
 Notes below:
 
 - Apply for a student credit card or first-time credit card
-  - Google "Student Credit Card" or "First Time Credit Card" and read an article (probably by Forbes) on the best introductory credit cards. Pick one with no annual fee and a competitive cash-back percentage or other appealing perk.
+  - Google "Student Credit Card" or "First Time Credit Card" and read an article on the best introductory credit cards. Pick one with no annual fee and a competitive cash-back percentage or other appealing perk.
 - Set up an online account and turn on at least email alerts
-  - Recommended: Also set up the app and add a homescreen widget with the card balance
+  - Recommended: Also set up the app and add a home screen widget with the card balance
 - Link the account to your bank account (takes a couple days)
 - Turn on automatic statement balance full payments from your bank account
   - This will help avoid any interest payments, assuming you always keep enough in your linked account to pay off the statement balance each month
@@ -60,13 +62,13 @@ When opening a new bank account:
 
 When I was 19, about to turn 20, my friend Kai called me and told me to open a Roth IRA. I didn't know what he was talking about, but I knew he was well-informed when it came to finance, and he talked me through what I should do and why. When I'm ready to retire, that advice he gave me might be worth a million bucks.
 
-- No matter what your current employment situation is, open a Roth IRA and try to add as much money to it as possible, up to the maximum amount (after covering your other expenses, of course). Any contribution amount is good. Even if you can’t max it out, you should still contribute. It's not an all-or-nothing situation.
-- Opening a Roth IRA as soon as possible extremely advantageous, as the money you contribute in your early 20s will earn more interest, dollar for dollar, over any of the money you contribute thereafter. 
-  - For example: Assuming $7000/year contributions and a market return of 7% per year, let X be the age of the person investing when they open the Roth IRA and Y be the amount of money in the Roth IRA at age 65. Then:
-    - X = 20 years old $\implies$ Y = $2,000,000 at age 65
-    - X = 25 years old $\implies$ Y = $1,400,000 at age 65
-    - X = 30 years old $\implies$ Y = $1,000,000 at age 6
-  - Notice the difference: From age 20 to age 30, you might contribute only $7000/year, or a total of $70,000 over those ten years. But those $70,000 have the longest to grow, contributing an addition $1,000,000 to the final value of the account compared to someone who starts at age 30. 
+- No matter what your current employment situation is, open a Roth IRA and, if possible, after covering your other expenses, try to add as much money to it as you can (up to the maximum amount). Any contribution amount is good. Even if you can’t come close to maxing it out, you should still contribute.
+- Opening a Roth IRA as soon as possible is extremely advantageous, as the sooner you add money to it, the more impact that money will have when you reach retirement. The first dollars you contribute will earn more interest, dollar for dollar, over any of the money you contribute thereafter.
+  - To really get a sense of the impact that early investing can make, let's assume that you're fortunate enough to be able to max out your Roth IRA by contributing $7000/year. Moreover, let's assume a market return of 7\% per year. Let $X$ be your age when you open the Roth IRA and start contributing, and let $Y$ be the amount of money in the Roth IRA at age 65 under these assumptions. Then:
+    - $X$ = 20 years old $\implies$ $Y$ = $2,000,000 at age 65
+    - $X$ = 25 years old $\implies$ $Y$ = $1,400,000 at age 65
+    - $X$ = 30 years old $\implies$ $Y$ = $1,000,000 at age 65
+  - Notice the difference: From age 20 to age 30, if you contribute $7000/year, that comes to a total of $70,000 over those ten years. But those $70,000 have the most time to grow, contributing an additional $1,000,000 to the final value of the account compared to someone who starts at age 30. 
 
 - My Roth IRA is under E\*Trade, since that's where I also have a HYSA and checking account. Because I don’t want to have to think about which stocks to invest the money in in, I chose the robo-investing option. As a consequence, I need to pay 0.35% of my account balance to E\*Trade each year. This is almost always washed out by the gains that you I get from the investments themselves (e.g., 7% each year)
 - The maximum amount you can contribute to a Roth IRA as a young person is roughly $7k/year. 
@@ -77,9 +79,8 @@ When I was 19, about to turn 20, my friend Kai called me and told me to open a R
 
 ### 401k
 
-If you are employed at a job that offers a 401k plan, take advantage of it it. Sign up for it and contribute at least as much as will cause the employer to match up to the maximum amount outlined in your contract. 
-
-- For example: maybe the employer matches up to 3% of your paycheck. If your paycheck before tax is, e.g., $1000, this means your employer will match $30. So, you should contribute at least $30 from your paycheck to take full advantage of that match. Your new paycheck will be $1000 - $30 = $970 before tax, but you’ll get $30 + $30 = $60 added to your 401k every paycheck. 
+If you are employed at a job that offers a 401k plan, try to take advantage of it it. Sign up for it, make the account, link it to your email, bookmark the tab for logging in and checking on it. If you can afford it, try to contribute at least as much as will cause your employer to match up to the maximum amount outlined in your contract. 
+- For example: maybe your employer matches up to 3% of your paycheck in 401k contributions. If your paycheck before tax is, e.g., $1000, this means your employer will match up to $30. So, you should try to contribute at least $30 from your paycheck to take full advantage of that match. Your new paycheck will be $1000 - $30 = $970 before tax, but you’ll get $30 + $30 = $60 added to your 401k every paycheck. 
 - Generous compensation plans may offer 6% or higher matches, and your paycheck may be significantly higher than $1000. It is surprising how much the balance in a 401k can increase after just one or two years of steady employement.
 - The primary differences between a Roth IRA and a 401k are as follows:
   - You can contribute to a Roth IRA even if you are not currently employed, and/or if your employer does not offer a 401k plan.
