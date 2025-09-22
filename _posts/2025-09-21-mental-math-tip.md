@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mental Math Tip: Squaring Numbers Ending in 5"
-date: 2025-09-21 21:00:00 -0700
+date: 2025-09-21 21:00:00 -0800
 categories: mental-math
 tags: [mental-math, memorization, math, arithmetic]
 ---

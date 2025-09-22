@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started with Responsible Personal Finance"
-date: 2025-09-20 09:00:00 -0700
+date: 2025-09-20 09:00:00 -0800
 categories: finance
 tags: [checklist, basics]
 ---
