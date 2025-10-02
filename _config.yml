@@ -3,7 +3,6 @@ email: ariessunfeld [at] gmail [dot] com
 description: >-
   Personal notes, checklists, and essays.
 
-# IMPORTANT for project sites
 url: "https://ariessunfeld.github.io"
 baseurl: "/blog"
 
@@ -24,7 +23,6 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Useful permalinks
 permalink: /:categories/:year/:month/:day/:title/
 
 author: "Ari Essunfeld"
